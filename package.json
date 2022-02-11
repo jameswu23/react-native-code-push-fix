@@ -1,10 +1,10 @@
 {
   "name": "react-native-code-push-fix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native plugin for the CodePush service",
   "main": "CodePush.js",
   "typings": "typings/react-native-code-push.d.ts",
-  "homepage": "",
+  "homepage": "https://github.com/jameswu23/react-native-code-push-fix.git",
   "keywords": [
     "react-native",
     "code",
@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/jameswu23/react-native-code-push-fix.git"
   },
   "dependencies": {
     "code-push": "2.0.6",
